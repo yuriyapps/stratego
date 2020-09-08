@@ -1,2 +1,2 @@
 ## Stratego
-Stratego board game agains AI
+A full stack application of a desktop game "Stratego"
