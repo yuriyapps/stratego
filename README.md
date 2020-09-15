@@ -1,2 +1,2 @@
 ## Stratego
-A full stack application of a desktop game "Stratego"
+A full stack application of a board game "Stratego"
